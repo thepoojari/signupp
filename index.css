@@ -1,0 +1,84 @@
+body{
+    background-image:url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-repeat:no-repeat;
+    
+     background-size:100vw 100vh;
+}
+.container
+{
+    text-align:center;
+    position:relative;
+    top:20vh;
+}
+#first
+{
+    font-family:monospace;
+    font-size:5vh;
+    color:black;
+    position:relative;
+    bottom:3vh;
+ 
+   
+
+}
+#name-info
+{
+    height:7vh;
+    width:40%;
+    position :relative;
+    top:2vh;
+    border-radius:1rem;
+}
+#mail-form
+{
+    
+        height:7vh;
+        width:40%;
+        border-radius:1rem;
+        
+        
+}
+#pass-form
+{
+    height:7vh;
+width:40%;
+position :relative;
+top:2vh;
+border-radius:1rem;
+}
+.btn
+{
+    height:7vh;
+    width:30%;
+    position:relative;
+    top:5vh; 
+    color:white;
+    
+    background-color:goldenrod;
+}
+#end
+{
+    position:relative;
+    top:10vh;
+    color:red;
+}
+
+#passe-form
+{
+    height:7vh;
+    width:40%;
+    position :relative;
+    
+    top:3vh;
+    border-radius:1rem;
+    }
+
+#info-form
+{
+    height:7vh;
+width:40%;
+position :relative;
+bottom:2.5vh;
+border-radius:1rem;
+}
+
